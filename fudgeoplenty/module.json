@@ -1,0 +1,21 @@
+{
+  "name": "fudgeoplenty",
+  "title": "Fudge O' Plenty",
+  "description": "Adds more fudge dice designs.",
+  "author": "LyncsCwtsh",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.8.9",
+  "dependencies": [
+        {
+            "type": "module",
+            "name": "dice-so-nice"
+        }
+    ],
+  "scripts": [
+        "scripts/fudgeoplenty.json"
+  ],
+  "url": "https://github.com/LyncsCwtsh/fvtt-module-fudgeoplenty",
+  "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-fudgeoplenty/main/fudgeoplenty/module.json",
+  "download": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-fudgeoplenty/main/module.zip"
+}

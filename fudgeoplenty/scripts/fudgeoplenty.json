@@ -1,0 +1,172 @@
+Hooks.on('diceSoNiceReady', (dice3d) => {
+
+ dice3d.addSystem({id:"chained",name:"🍫 Chained"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/chained/dfm.webp',
+      'modules/fudgeoplenty/faces/chained/df.webp',
+      'modules/fudgeoplenty/faces/chained/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/chained/dfmb.webp',
+      'modules/fudgeoplenty/faces/chained/dfb.webp',
+      'modules/fudgeoplenty/faces/chained/dfpb.webp'
+    ],
+	system:"chained"
+  });
+
+ dice3d.addSystem({id:"gears",name:"🍫 Gears"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/gears/dfm.webp',
+      'modules/fudgeoplenty/faces/gears/df.webp',
+      'modules/fudgeoplenty/faces/gears/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/gears/dfmb.webp',
+      'modules/fudgeoplenty/faces/gears/dfb.webp',
+      'modules/fudgeoplenty/faces/gears/dfpb.webp'
+    ],
+	system:"gears"
+  });
+
+ dice3d.addSystem({id:"shieldg",name:"🍫 Gryphon Shield"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/shieldg/dfm.webp',
+      'modules/fudgeoplenty/faces/shieldg/df.webp',
+      'modules/fudgeoplenty/faces/shieldg/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/shieldg/dfmb.webp',
+      'modules/fudgeoplenty/faces/shieldg/dfb.webp',
+      'modules/fudgeoplenty/faces/shieldg/dfpb.webp'
+    ],
+	system:"shieldg"
+  });
+
+ dice3d.addSystem({id:"heart",name:"🍫 Heartlines"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/heart/dfm.webp',
+      'modules/fudgeoplenty/faces/heart/df.webp',
+      'modules/fudgeoplenty/faces/heart/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/heart/dfmb.webp',
+      'modules/fudgeoplenty/faces/heart/dfb.webp',
+      'modules/fudgeoplenty/faces/heart/dfpb.webp'
+    ],
+	system:"heart"
+  });
+
+ dice3d.addSystem({id:"simplec",name:"🍫 Simple Circle"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/simplec/dfm.webp',
+      'modules/fudgeoplenty/faces/simplec/df.webp',
+      'modules/fudgeoplenty/faces/simplec/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/simplec/dfmb.webp',
+      'modules/fudgeoplenty/faces/simplec/dfb.webp',
+      'modules/fudgeoplenty/faces/simplec/dfpb.webp'
+    ],
+	system:"simplec"
+  });
+
+ dice3d.addSystem({id:"sns",name:"🍫 Skull n Sword"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/sns/dfm.webp',
+      'modules/fudgeoplenty/faces/sns/df.webp',
+      'modules/fudgeoplenty/faces/sns/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/sns/dfmb.webp',
+      'modules/fudgeoplenty/faces/sns/dfb.webp',
+      'modules/fudgeoplenty/faces/sns/dfpb.webp'
+    ],
+	system:"sns"
+  });
+
+ dice3d.addSystem({id:"soundwave",name:"🍫 Soundwave"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/soundwave/dfm.webp',
+      'modules/fudgeoplenty/faces/soundwave/df.webp',
+      'modules/fudgeoplenty/faces/soundwave/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/soundwave/dfmb.webp',
+      'modules/fudgeoplenty/faces/soundwave/dfb.webp',
+      'modules/fudgeoplenty/faces/soundwave/dfpb.webp'
+    ],
+	system:"soundwave"
+  });
+
+ dice3d.addSystem({id:"thicket",name:"🍫 Thicket"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/thicket/dfm.webp',
+      'modules/fudgeoplenty/faces/thicket/df.webp',
+      'modules/fudgeoplenty/faces/thicket/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/thicket/dfmb.webp',
+      'modules/fudgeoplenty/faces/thicket/dfb.webp',
+      'modules/fudgeoplenty/faces/thicket/dfpb.webp'
+    ],
+	system:"thicket"
+  });
+
+ dice3d.addSystem({id:"shieldw",name:"🍫 Winged Shield"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/shieldw/dfm.webp',
+      'modules/fudgeoplenty/faces/shieldw/df.webp',
+      'modules/fudgeoplenty/faces/shieldw/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/shieldw/dfmb.webp',
+      'modules/fudgeoplenty/faces/shieldw/dfb.webp',
+      'modules/fudgeoplenty/faces/shieldw/dfpb.webp'
+    ],
+	system:"shieldw"
+  });
+
+ dice3d.addSystem({id:"zeb",name:"🍫 Zebright"},false);
+
+  dice3d.addDicePreset({
+    type:"df",
+    labels:[
+      'modules/fudgeoplenty/faces/zebright/dfm.webp',
+      'modules/fudgeoplenty/faces/zebright/df.webp',
+      'modules/fudgeoplenty/faces/zebright/dfp.webp'
+    ],
+      bumpMaps:[
+      'modules/fudgeoplenty/faces/zebright/dfmb.webp',
+      'modules/fudgeoplenty/faces/zebright/dfb.webp',
+      'modules/fudgeoplenty/faces/zebright/dfpb.webp'
+    ],
+	system:"zeb"
+  });
+});

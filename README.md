@@ -1,6 +1,6 @@
 # Fudge O' Plenty
 
-![preview](Images/cover.jpg?raw=true)
+![preview](images/cover.jpg?raw=true)
 
 This module works as an addon to Dice so Nice, adding more dice faces for Fudge/Fate dice to give users more customization options.
 

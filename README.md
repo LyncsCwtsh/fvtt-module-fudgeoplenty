@@ -6,7 +6,7 @@ This module works as an addon to Dice so Nice, adding more dice faces for Fudge/
 
 Everything this module adds is marked with a chocolate bar (🍫 <- totally fudge filled chocolate bar), so you can discern between what different DsN addons add.
 
-You can find proper previews with examples [here](https://github.com/LyncsCwtsh/fvtt-fudgeoplenty/blob/main/Dice%20Preview.md).
+You can find proper previews with examples [here](https://github.com/LyncsCwtsh/fvtt-fudgeoplenty/blob/main/Dice%20Preview.md). The colour combinations you see in the previews are created by setting the 'Theme' to 'Rainbow' and the 'Texture' to 'Bronze - 2'.
 
 ### Future Plans
 Currently none in the pipeline, but should inspiration strike, I might add more.

@@ -1,21 +1,24 @@
 {
-  "name": "fudgeoplenty",
+  "id": "fudgeoplenty",
   "title": "Fudge O' Plenty",
-  "description": "Adds more fudge dice designs.",
-  "author": "LyncsCwtsh",
-  "version": "1.0.0",
-  "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "0.8.9",
-  "dependencies": [
-        {
-            "type": "module",
-            "name": "dice-so-nice"
-        }
-    ],
+  "description": "Adds more fudge dice designs to DsN.",
+  "version": "1.0.1",
+  "readme": "https://github.com/LyncsCwtsh/fvtt-module-fudgeoplenty/blob/main/README.md",
+  "changelog": "https://github.com/LyncsCwtsh/fvtt-module-fudgeoplenty/blob/main/Changelog.md",
+  "authors": [
+    {
+      "name": "LyncsCwtsh",
+      "flags": {}
+    }
+  ],
   "scripts": [
-        "scripts/fudgeoplenty.json"
+    "scripts/fudgeoplenty.json"
   ],
   "url": "https://github.com/LyncsCwtsh/fvtt-module-fudgeoplenty",
-  "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-fudgeoplenty/main/fudgeoplenty/module.json",
-  "download": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-fudgeoplenty/main/module.zip"
+  "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-fudgeoplenty/main/nice-more-dice/module.json",
+  "download": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-fudgeoplenty/main/module.zip",
+  "compatibility": {
+    "minimum": "0.7.9",
+    "verified": "14"
+  }
 }

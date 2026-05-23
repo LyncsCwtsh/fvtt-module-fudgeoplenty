@@ -12,7 +12,11 @@ You can find proper previews with examples [here](https://github.com/LyncsCwtsh/
 Currently none in the pipeline, but should inspiration strike, I might add more.
 
 ### Feedback
-If you have any feedback, feel free to throw a dm in discord at me (LyncsCwtsh#7116). Doesn’t matter if it’s about requests, errors in the code or other dice related musings. Getting feedback also encourages me to figure out how Github works and wrestle with code instead of keeping creations private.
+If you have any feedback, feel free to throw a dm in discord at me (LyncsCwtsh#7116). Doesn’t matter if it’s about requests, errors in the code or other dice related musings.
+
+### Want more of my dice?
+- [The big boi with many a thing](https://foundryvtt.com/packages/nice-more-dice)
+- [d12 specific designs, primarily for Daggerheart](https://github.com/LyncsCwtsh/fvtt-module-daggerdice)
 
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and the Foundry Virtual Tabletop [EULA - Limited License Agreement for module development](https://foundryvtt.com/article/license/).

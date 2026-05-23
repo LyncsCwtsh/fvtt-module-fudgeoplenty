@@ -15,7 +15,7 @@
     "scripts/fudgeoplenty.json"
   ],
   "url": "https://github.com/LyncsCwtsh/fvtt-module-fudgeoplenty",
-  "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-fudgeoplenty/main/nice-more-dice/module.json",
+  "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-fudgeoplenty/main/fudgeoplenty/module.json",
   "download": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-fudgeoplenty/main/module.zip",
   "compatibility": {
     "minimum": "0.7.9",
